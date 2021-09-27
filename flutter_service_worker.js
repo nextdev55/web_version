@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "42f5529b7e2d59114570c31ff8e39f15",
-"index.html": "8b1dd1fdff50e7537b47fe44b4b0cb3b",
-"/": "8b1dd1fdff50e7537b47fe44b4b0cb3b",
+"index.html": "ce230add3af2c491be451a98352bb039",
+"/": "ce230add3af2c491be451a98352bb039",
 "main.dart.js": "83af5321bcab5b7bd5b568934acd81b8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -13,7 +13,7 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "4dec0fe63dd11c911c680c567d6cee20",
-"assets/AssetManifest.json": "49c0e4d709e0a6953aa95a68c0adbf08",
+"assets/AssetManifest.json": "df8ee6c1415a45b73592684a472d61c3",
 "assets/NOTICES": "08f3cb82406debef48e0eb7afd9750e7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -21,6 +21,7 @@ const RESOURCES = {
 "assets/assets/images/bubble_chart.png": "2cdb9226de23aaf073b19426ad4a3ea8",
 "assets/assets/images/moreicon.png": "87667db79838cee8347c325a5d545da9",
 "assets/assets/images/Category.png": "768e76fab5769f97fe33c9d54cad443c",
+"assets/assets/images/spot.png": "5ff59a8ed9827c7ab93812425882971f",
 "assets/assets/images/download.png": "7ee383eb2135bbb865b700429a5c4316",
 "assets/assets/images/postcast.png": "b798bb7c0af4b8605f76371327422b90",
 "assets/assets/images/blocktales.png": "5f43b1a6b020961b1f774341f15a6794",
@@ -32,8 +33,10 @@ const RESOURCES = {
 "assets/assets/images/Smart.png": "07e00ae7cdee23f7034586e599b07736",
 "assets/assets/images/tbx.png": "8de789b97ba708f9d6ffe6d8fa934d12",
 "assets/assets/images/Chart.png": "3fa86e90d120db7f7f9d90e40c3536c2",
+"assets/assets/images/db.png": "1ccba66599ce79a712d6297124cd7ab6",
 "assets/assets/images/BTC.png": "368e6df377b7a6c5aa5ad51b55763b64",
 "assets/assets/images/Notification.png": "93f45a733ab97b47e57b1fc8869505b5",
+"assets/assets/images/steem.png": "ecc4956948d3334d5aa48bdfabac0a47",
 "assets/assets/images/xrp.png": "f1d24e0c23d6bf153ae81632fdfc339f"
 };
 
